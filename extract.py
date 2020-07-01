@@ -9,6 +9,7 @@ x=pdfread.getPage(10)
 print(x.extractText())
 """
 
+
 #TO EXTRACT ENTIRE PDF'S DATA
 
 i=0
